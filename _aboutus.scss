@@ -1,0 +1,43 @@
+.aboutus-container {
+  height: 100vh;
+  width: 100vw;
+  color: #181818;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.aboutus-text {
+  height: 80vh;
+  width: 40vw;
+  border: solid #181818;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  flex-direction: column;
+
+  h1 {
+    font-size: 5rem;
+    margin-bottom: 15px;
+    ;
+  }
+
+  p {
+    font-size: 3rem;
+  }
+}
+
+.aboutus-carousel {
+  height: 80vh;
+  width: 40vw;
+  border: solid #181818;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  flex-direction: column;
+
+  h1 {
+    font-size: 5rem;
+    margin-bottom: 15px;
+  }
+}
